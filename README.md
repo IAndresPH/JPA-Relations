@@ -1,4 +1,4 @@
-# Spring Boot JPA Relationships
+# Spring Boot JPA
 ```
  .--.             _               .---.       .-.         .-.  _
 : .--'           :_;              : .; :      : :        .' `.:_;
