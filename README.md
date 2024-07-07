@@ -1,4 +1,12 @@
-# Spring Boot JPA Relationships Project
+# Spring Boot JPA Relationships
+
+ .--.             _               .---.       .-.         .-.  _
+: .--'           :_;              : .; :      : :        .' `.:_;
+`. `. .---. .--. .-.,-.,-. .--.   :   .' .--. : :   .--. `. .'.-. .--. ,-.,-. .--.
+ _`, :: .; `: ..': :: ,. :' .; :  : :.`.' '_.': :_ ' .; ; : : : :' .; :: ,. :`._-.'
+`.__.': ._.':_;  :_;:_;:_;`._. ;  :_;:_;`.__.'`.__;`.__,_;:_; :_;`.__.':_;:_;`.__.'
+      : :                  .-. :
+      :_;                  `._.'
 
 Este proyecto de Spring Boot demuestra cómo manejar las relaciones básicas de JPA (Java Persistence API) en una base de datos relacional. Incluye ejemplos de relaciones uno a uno, uno a muchos, muchos a uno y muchos a muchos.
 
